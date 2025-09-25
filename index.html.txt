@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Galería</title>
+</head>
+<body>
+  <h1>Galería de Imágenes</h1>
+  <img src="nombre_de_tu_imagen.jpg" width="300">
+  <p>Datos: Aquí puedes poner la descripción de la imagen o tus datos.</p>
+</body>
+</html>
